@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HE4VENsCode](https://github.com/HE4VENsCode)
 
-- 💬 Ask me about **FiveM Development and Lua**
+- 💬 Ask me about **FiveM Development (QB)** and **Lua**
 
-- 📫 How to reach me **truedevelopement.fivem@gmail.com**
+- 📫 How to reach me: **truedevelopement.fivem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
