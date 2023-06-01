@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **FiveM Development (QB)** and **Lua**
 
-- 📫 How to reach me: **truedevelopement.fivem@gmail.com**
+- 📫 How to reach me: **https://dsc.gg/hcrp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
