@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HE4VENsCode](https://github.com/HE4VENsCode)
 
-- 💬 Ask me about **FiveM Development (QB)** and **Lua**
+- 💬 Ask me about **FiveM Development (QB and ESX)** and **Lua/HTML/JS/CSS**
 
 - 📫 How to reach me: **https://dsc.gg/hcrp** or **TRUE_HE4VEN#0657**
 
