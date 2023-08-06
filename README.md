@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=he4vencode&label=Profile%20views&color=0e75b6&style=flat" alt="he4vencode" /> </p>
 
-- 🔭 I’m currently working on [my own FiveM Play Server.](http://cfx.re/join/o3aevj)
+- 🔭 I’m currently working on [my own GMod DarkRP Server.](https://discord.gg/HM5fF33gND)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HE4VENsCode](https://github.com/HE4VENsCode)
 
