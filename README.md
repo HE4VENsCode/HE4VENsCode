@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **FiveM Development (QB and ESX)** and **Lua/HTML/JS/CSS**
 
-- 📫 How to reach me: **https://dsc.gg/hcrp** or **TRUE_HE4VEN#0657**
+- 📫 How to reach me: **TRUE_HE4VEN#0657**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
