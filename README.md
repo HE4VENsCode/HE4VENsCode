@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my own GMod DarkRP Server.](https://discord.gg/HM5fF33gND)
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/HE4VENsCode?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/HE4VENsCode?tab=repositories)!
 
 - 💬 Ask me about **FiveM Development (QB and ESX)**, **Lua/HTML/JS/CSS** and **Pen-Testing**
 
