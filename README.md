@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **FiveM Development (QB and ESX)** and **Lua/HTML/JS/CSS**
 
-- 📫 How to reach me: **TRUE_HE4VEN#0657**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://dsc.gg/hcrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NEzpJf5gxx" height="30" width="40" /></a>
