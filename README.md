@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&color=00F722&center=true&multiline=true&repeat=false&width=485&height=150&lines=Welcome!;I'm+Marvin%F0%9F%91%8B;Here+you+can+find+everything+about+me)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Marvin</h1>
-<h3 align="center">A developer from Germany</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=he4vencode&label=Profile%20views&color=0e75b6&style=flat" alt="he4vencode" /> </p>
 
 - 🔭 I’m currently working on [my own GMod DarkRP Server.](https://discord.gg/HM5fF33gND)
