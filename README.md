@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1&color=006AF7&center=true&vCenter=true&multiline=true&repeat=false&width=885&height=150&lines=Welcome!;I'm+Marvin%F0%9F%91%8B;Here+you+can+find+all+my+projects!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=he4vencode&label=Profile%20views&color=0e75b6&style=flat" alt="he4vencode" /> </p>
 
-- 🔭 I’m currently working on [nothin..](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif)
+- 🔭 I’m currently working on: [Nothing..](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif)
 
 - 👨‍💻 All my projects are available [here](https://github.com/HE4VENsCode?tab=repositories)!
 
