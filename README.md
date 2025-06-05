@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&duration=1500&pause=750&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=250&lines=Hey+%F0%9F%91%8B;Im+Marvin!;Here+you+can+find+all+my+stuff..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=30&letterSpacing=&duration=1500&pause=1000&color=FFFFFF&vCenter=true&width=435&height=150&lines=Hey+%F0%9F%91%8B;Im+Marvin!;Here+you+can+find+all+my+stuff..)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=he4vencode&label=Profile%20views&color=0e75b6&style=flat" alt="he4vencode" /> </p>
 
